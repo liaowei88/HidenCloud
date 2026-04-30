@@ -48,7 +48,7 @@ myaccount@mail.com-----MyStr0ngP@ssw0rd
 
 ### 代理格式
 
-`PROXY_NODE_US` 支持以下任意一种代理协议的完整分享链接（不配置则直连）：
+`PROXY_NODE` 支持以下任意一种代理协议的完整分享链接（不配置则直连）：
 
 - **VLESS**：`vless://uuid@server:port?security=reality&sni=...&type=ws&...`
 - **VMess**：`vmess://base64encoded`
